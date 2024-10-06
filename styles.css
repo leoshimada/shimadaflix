@@ -1,5 +1,5 @@
-body{
-    color:white;
+body {
+    color: white;
     background: black;
     margin: 0px;
     font-family: "Comic Neue", cursive;
@@ -7,11 +7,11 @@ body{
 }
 
 header {
-border-bottom: solid 1px rgb(243, 1, 1);
-padding: 15px;
-font-size: 50px; 
-color: rgb(243, 1, 1);
-text-align: center;
+    border-bottom: solid 1px rgb(243, 1, 1);
+    padding: 15px;
+    font-size: 50px;
+    color: rgb(243, 1, 1);
+    text-align: center;
 
 }
 
@@ -23,15 +23,15 @@ text-align: center;
     justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
-    
+
 }
 
 h1 {
     font-size: 30px;
 
-   }
+}
 
 p {
     font-size: 15px;
@@ -44,7 +44,7 @@ p {
     overflow-x: auto;
     gap: 20px;
     text-align: center;
-padding-bottom: 10px;
+    padding-bottom: 10px;
 
 }
 
@@ -55,13 +55,13 @@ padding-bottom: 10px;
     padding-right: 20px;
     margin-top: 5px;
     text-align: center;
-    
+
 
 }
 
 .categoria-videos img {
-opacity: 0.5;
-height:200px
+    opacity: 0.5;
+    height: 200px
 }
 
 .categoria-videos img:hover {
@@ -73,7 +73,7 @@ height:200px
     color: rgb(243, 1, 1);
 }
 
-.chamada-texto2{
+.chamada-texto2 {
     padding-top: 1px;
-    
+
 }
